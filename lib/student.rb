@@ -5,3 +5,4 @@ class Student
     @name = name
   end
   
+end
